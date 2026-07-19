@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Quirky" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
